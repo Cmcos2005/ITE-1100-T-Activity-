@@ -1,1 +1,1 @@
-("Yohance Sinclair")
+print("Yohance Sinclair")
